@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I’m @Himmath056 </h1>
 <h3 align="center"></h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/media/a85f92e2e28b742b3e1c168b2090deb1.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himmath056&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22Himmath056" /> </p>
 
